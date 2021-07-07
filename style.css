@@ -8,9 +8,9 @@ p{
     font-size: 30px;
     color: #426074;
 }
+
 .sec1{
-    width: 50%;
-    
+    width: 50%;  
 }
 .sec1 p{
     font-size: 25px;
@@ -44,12 +44,21 @@ p{
     -webkit-text-fill-color: transparent;
 }
 
+.section2{
+    background-image: url(images/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    height: 100%;
+}
 .sec2{
     width: 50%;
 }
 .sec2 p{
     font-size: 25px;
-    margin-bottom: 10%;
+    margin-bottom: 7%;
 }
 .sec2right{
     width: 45%;
