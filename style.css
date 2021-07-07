@@ -27,10 +27,11 @@ p{
 
 .flexibleSec{
     display: flex;
+    margin-bottom: 150px;
 }
 .orderNow{
-    color: white;
-    background: -webkit-linear-gradient(45deg, blue, #3AA4FF );
+    color: #FF7039;
+    background: -webkit-linear-gradient(45deg, black, grey );
     padding: 20px 30px;
     text-decoration: none;
     font-size: 30px;
@@ -41,4 +42,23 @@ p{
      background: -webkit-linear-gradient(45deg, tomato, orange );
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+}
+
+.sec2{
+    width: 50%;
+}
+.sec2 p{
+    font-size: 25px;
+    margin-bottom: 10%;
+}
+.sec2right{
+    width: 45%;
+}
+.orderNow2{
+    color: yellow;
+    background: -webkit-linear-gradient(45deg, #103F91, #1C2F52 );
+    padding: 20px 30px;
+    text-decoration: none;
+    font-size: 30px;
+    border-radius: 10px;
 }
