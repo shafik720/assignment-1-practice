@@ -108,3 +108,38 @@ p{
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
+
+.sec5{
+    width: 30%;
+    text-align: center;
+}
+.sec5 h1{
+    font-size: 45px;
+}
+.sec5 p{
+    font-size: 20px;
+}
+.sec5First{
+    margin-left:5%;
+}
+
+.section5{
+    width: 90%;
+    margin-left: 5%;
+    box-shadow: 5px 5px 20px gray;
+    border-radius: 10px ;
+}
+
+.section6{
+    text-align: center;
+}
+.SocialSites{
+    width: 30%;
+}
+.SocialSites img{
+    width: 150px;
+    height: 150px;
+}
+.social1{
+    margin-left: 5%;
+}
